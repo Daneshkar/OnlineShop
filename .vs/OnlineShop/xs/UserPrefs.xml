@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{16A9383C-EC29-4462-AD94-9C8ECC0EE3D4}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineShop/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="OnlineShop/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="OnlineShop/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="OnlineShop/Controllers/ProductController.cs" Line="3" Column="17" />
+      <File FileName="OnlineShop/Program.cs" Line="2" Column="17" />
+      <File FileName="OnlineShop/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop/Views/Shared/_Layout.cshtml" Line="26" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineShop" expanded="True">
+            <Node name="OnlineShop" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnlineShop PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
