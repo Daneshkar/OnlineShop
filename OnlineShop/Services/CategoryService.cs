@@ -41,6 +41,7 @@ namespace OnlineShop.Services
         public void RemoveCategory(Category category)
         {
             context.Remove(category);
+            context.SaveChanges();
 
         }
 
